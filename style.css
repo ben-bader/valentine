@@ -53,6 +53,7 @@ button:active {
 
 #no {
     background: rgb(255, 0, 0);
+    z-index: 10;
 }
 
 
